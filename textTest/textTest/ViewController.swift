@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController, UITextViewDelegate, UIPickerViewDelegate {
-    
+    let ss = 1234
     var sender: UIButton!
     
     var picker: UIPickerView!
