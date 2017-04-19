@@ -31,4 +31,12 @@ id sem consectetuer libero luctus adipiscing.
 
 * Red-*   
 + Green-+  
-- Blue--
+- Blue--   
+
+Use the `printf()` function.-``
+
+*single asterisks*  
+_single underscores_  
+**double asterisks**  
+__double underscores__  
+un*frigging*believable  
